@@ -5,7 +5,7 @@ import math
 Assignments and Variables
 1. Solve the following tasks using the Python interactive shell.
 • Define two variables a and b and assign them the values 8 and 4.
-• Build the sum of both variables and store the result in a new variable named c.
+• Build the account_balance of both variables and store the result in a new variable named c.
 • Check what id and data type the c has.
 • Create a new variable d and assign the value of c to it.
 • Divide c by 3 and overwrite the variable c with the new result.
